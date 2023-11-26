@@ -1,5 +1,0 @@
-Snacks:
-- Galletas
-- Chocolate
-- Hojaldre
-- Tarta
